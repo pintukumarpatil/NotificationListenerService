@@ -22,5 +22,4 @@ NotificationListenerService provides facility to fetch active notifications usin
 User require to enable notification permission from "Settings > Security > Notification access".
 And Also user can take permission by using PERMISSION ON/OFF Button
 
-![Mou icon](https://www.dropbox.com/s/hnnp0jnkrvwd9at/Screenshot_20160824-131835.png)
-![Mou icon](https://photos.google.com/share/AF1QipOwjD6366yi2iOHrYbLJv8t1r9eIRvsbLGOpvqoNkubdJ1KH2AFzy9OB8jEody9WA/photo/AF1QipMvJGy6My__B5UXtj1obawOyB1Tfc8ofj453rAa?key=LVY4Z3BUZHZWSElnV1JhSWxNQnNVM1MwdHBGbFNn)
+![Mou icon](https://github.com/pintukumarpatil/NotificationListenerService/blob/master/NotificationListener/screen/device-2016-08-31-170319.png)
