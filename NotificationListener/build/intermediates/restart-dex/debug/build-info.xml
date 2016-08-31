@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="23"
-    density="xhdpi"
+    abi="x86"
+    api-level="18"
+    density="xxhdpi"
     format="7"
-    timestamp="6715351548229" >
+    timestamp="20153748573485" >
 
     <task
         name="javac"
-        duration="381" />
+        duration="841" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="73" />
+        duration="219" />
     <task
         name="verifier"
-        duration="37" />
+        duration="12" />
 
     <artifact
         location="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/outputs/apk/NotificationListener-debug.apk"
         type="MAIN" />
 
-    <build timestamp="6715351548229" >
+    <build timestamp="20153748573485" >
         <artifact
             location="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/outputs/apk/NotificationListener-debug.apk"
             type="MAIN" />

@@ -1,7 +1,0 @@
-CHANGED,/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/pk/example/MainActivity$override.class
-CHANGED,/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/pk/example/R$string$override.class
-CHANGED,/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/pk/example/NLService$SimpleAction$override.class
-CHANGED,/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/pk/example/R$styleable$override.class
-CHANGED,/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/pk/example/R$style$override.class
-CHANGED,/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/pk/example/NLService$override.class

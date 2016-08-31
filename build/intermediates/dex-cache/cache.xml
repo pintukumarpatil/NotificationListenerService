@@ -1,2 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5305936738497fe4a5d89fc4f13015931c0fd402">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0-alpha1_24c555e006684691712c03f3280f4bca6e2a7f19.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="33d432236be1cb4f4bfd9202f8f50263afcb32f8">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/instant-run_87e71e6e16f767a1895966d11cf84245a6445984.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba75da866b3d975ca7a9fbdbcd61de67932e0052">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_069ce527b3e64339e433ca42f15c59e5947c3a3d.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-alpha1_3f5de121eeeae1f37c8f46e458cb2e4f894c6e18.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-alpha1_f7c43dd145b65e5238a54069be4c42601774028f.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7f708a62a9f2f03f4a2c54c6c2bef302f1997d43">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/instant-run-bootstrap_769cca0cb038a8fe338570a243f2567c2a4d9194.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-alpha1_b93f00115f0e2144d1a3dc91badd6a72c1e60340.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1_4effeb042f811fa45a3ab2591f95a2a4d2042b2e.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_52bbeac7c5b883970750c98e4d3a59699be4981d.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c449a8b23f9b989a814220af893445b382a0b50d">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.0.0-alpha1_dfa4a92d2fb1e479a00592ae92b2123b30dbd29d.jar" />
+    </item>
+    <item
+        jar="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/home/mobiweb/GoogleSamples/NotificationListenerService/NotificationListener/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0-alpha1_67ceb4edc30f09ae647057da7b4a1b23136cb358.jar" />
+    </item>
+
+</items>
